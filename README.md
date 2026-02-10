@@ -1,4 +1,4 @@
-'''import turtle
+import turtle
 import time
 t=turtle.Turtle()
 
@@ -28,4 +28,4 @@ while True:
 	
 	for i in range(dönme_sayısı):
 		t.forward(kenar)
-		t.left(acı)'''
+		t.left(acı)
