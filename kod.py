@@ -1,4 +1,4 @@
-import turtle
+'''import turtle
 import time
 t=turtle.Turtle()
 
@@ -38,5 +38,5 @@ while True:
 	if(tablo.upper() == "EVET"):
 		turtle.mainloop()
 	else:
-		t.write("DEVAM")
+		t.write("DEVAM")'''
  
